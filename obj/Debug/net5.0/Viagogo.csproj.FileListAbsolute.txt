@@ -1,0 +1,15 @@
+/Users/informationtechnology/RiderProjects/Viagogo/bin/Debug/net5.0/Viagogo.deps.json
+/Users/informationtechnology/RiderProjects/Viagogo/bin/Debug/net5.0/Viagogo.runtimeconfig.json
+/Users/informationtechnology/RiderProjects/Viagogo/bin/Debug/net5.0/Viagogo.runtimeconfig.dev.json
+/Users/informationtechnology/RiderProjects/Viagogo/bin/Debug/net5.0/Viagogo.dll
+/Users/informationtechnology/RiderProjects/Viagogo/bin/Debug/net5.0/ref/Viagogo.dll
+/Users/informationtechnology/RiderProjects/Viagogo/bin/Debug/net5.0/Viagogo.pdb
+/Users/informationtechnology/RiderProjects/Viagogo/obj/Debug/net5.0/Viagogo.csproj.AssemblyReference.cache
+/Users/informationtechnology/RiderProjects/Viagogo/obj/Debug/net5.0/Viagogo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/informationtechnology/RiderProjects/Viagogo/obj/Debug/net5.0/Viagogo.AssemblyInfoInputs.cache
+/Users/informationtechnology/RiderProjects/Viagogo/obj/Debug/net5.0/Viagogo.AssemblyInfo.cs
+/Users/informationtechnology/RiderProjects/Viagogo/obj/Debug/net5.0/Viagogo.csproj.CoreCompileInputs.cache
+/Users/informationtechnology/RiderProjects/Viagogo/obj/Debug/net5.0/Viagogo.dll
+/Users/informationtechnology/RiderProjects/Viagogo/obj/Debug/net5.0/ref/Viagogo.dll
+/Users/informationtechnology/RiderProjects/Viagogo/obj/Debug/net5.0/Viagogo.pdb
+/Users/informationtechnology/RiderProjects/Viagogo/obj/Debug/net5.0/Viagogo.genruntimeconfig.cache
